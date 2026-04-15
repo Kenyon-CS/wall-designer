@@ -1,0 +1,9 @@
+gallery:
+  id: "sample"
+  rooms:
+    - room_id: "R1"
+      walls:
+        - id: "R1-N"
+          width_ft: 20
+        - id: "R1-E"
+          width_ft: 15

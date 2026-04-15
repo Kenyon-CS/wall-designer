@@ -1,0 +1,10 @@
+wall_scoring:
+  constraints:
+    min_gap_ft: 0.5
+    wall_edge_margin_ft: 0.5
+    target_center_y_ft: 4.75
+
+  weights:
+    fit: 0.4
+    spacing: 0.3
+    balance: 0.3

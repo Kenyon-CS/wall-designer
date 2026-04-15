@@ -1,0 +1,26 @@
+art:
+  artworks:
+    - id: "A1"
+      width_ft: 2.0
+      height_ft: 3.0
+      theme_tags: ["blue"]
+
+    - id: "A2"
+      width_ft: 3.0
+      height_ft: 2.5
+      theme_tags: ["red"]
+
+    - id: "A3"
+      width_ft: 1.5
+      height_ft: 2.0
+      theme_tags: ["blue"]
+
+    - id: "A4"
+      width_ft: 2.5
+      height_ft: 3.5
+      theme_tags: ["green"]
+
+    - id: "A5"
+      width_ft: 2.2
+      height_ft: 2.8
+      theme_tags: ["blue"]
