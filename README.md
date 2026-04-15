@@ -15,7 +15,7 @@ Students will:
 ```bash
 pip install -r requirements.txt
 
-python -m wall_designer.main \
+python3 -m wall_designer.main \
   --gallery data/gallery.yaml \
   --art data/art.yaml \
   --scoring data/wall_scoring.yaml \
